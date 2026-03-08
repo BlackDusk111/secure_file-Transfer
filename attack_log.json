@@ -1,0 +1,182 @@
+[
+  {
+    "type": "MITM",
+    "source": "manak123",
+    "detail": "Public key mismatch. Expected: bba441ee4b878aff... Got: 761558583efb2aa3...",
+    "timestamp": "2026-03-08 17:23:18"
+  },
+  {
+    "type": "MITM",
+    "source": "test123",
+    "detail": "Public key mismatch. Expected: ffabfc8ef8d3d94e... Got: 02e7ad68e173a6f2...",
+    "timestamp": "2026-03-08 17:23:59"
+  },
+  {
+    "type": "MITM",
+    "source": "test123",
+    "detail": "Public key mismatch. Expected: 9947b01a08546de3... Got: 562153cc1189a99c...",
+    "timestamp": "2026-03-08 17:37:05"
+  },
+  {
+    "type": "MITM",
+    "source": "manak123",
+    "detail": "Public key mismatch. Expected: efeb510f40a13e17... Got: 37f454047261be8a...",
+    "timestamp": "2026-03-08 17:37:35"
+  },
+  {
+    "type": "MITM",
+    "source": "test123",
+    "detail": "Public key mismatch. Expected: 562153cc1189a99c... Got: 64b2a1d9e6d3d36e...",
+    "timestamp": "2026-03-08 19:47:19"
+  },
+  {
+    "type": "DoS",
+    "source": "127.0.0.1",
+    "detail": "11 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 19:59:23"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "11 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "12 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "13 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "14 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "15 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "16 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "17 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "18 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "19 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "10.0.0.99",
+    "detail": "20 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "11 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "12 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "13 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "14 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "15 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "16 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "17 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "18 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "19 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "DoS",
+    "source": "1.2.3.4",
+    "detail": "20 requests in 10s (limit 10)",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "MITM",
+    "source": "charlie",
+    "detail": "Public key mismatch. Expected: f89a3fbc4294bc0e... Got: 3dd28f8b06412771...",
+    "timestamp": "2026-03-08 20:39:10"
+  },
+  {
+    "type": "Replay",
+    "source": "unknown",
+    "detail": "Duplicate nonce detected: 0ff88ff4feb89e71...",
+    "timestamp": "2026-03-08 20:39:11"
+  },
+  {
+    "type": "Replay",
+    "source": "unknown",
+    "detail": "Stale packet: 9999.0s old (max 30s)",
+    "timestamp": "2026-03-08 20:39:11"
+  },
+  {
+    "type": "Replay",
+    "source": "unknown",
+    "detail": "Duplicate nonce detected: ae5edc6972f31b6c...",
+    "timestamp": "2026-03-08 20:39:11"
+  }
+]
